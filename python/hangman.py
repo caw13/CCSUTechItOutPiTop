@@ -1,3 +1,4 @@
+# Basic text based hangman game
 import random
 
 def pick_a_word():
