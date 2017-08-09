@@ -1,4 +1,6 @@
 # Basic text based hangman game
+# Created for CCSU Tech It Out camp
+
 import random
 
 def pick_a_word():
