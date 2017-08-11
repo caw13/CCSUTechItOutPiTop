@@ -2,7 +2,7 @@
 ## Instructor Chad Williams
 
 **Assembly instructions for pi-top:**  
-https://github.com/caw13/CCSUTechItOutPiTop/blob/master/pi-top_Instruction_Manual.pdf
+https://github.com/caw13/CCSUTechItOutPiTop/blob/master/Improved_pi-top_assembly_instructions.pdf
 
 ## Python 3 references #
 **Quick reference for Python 3**  
