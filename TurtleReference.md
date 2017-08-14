@@ -22,3 +22,5 @@ To clear the canvas and leave turtle where it is
 
 To clear the canvas and return turtle to its initial state
 > t.reset()
+More commands:
+https://docs.python.org/3.0/library/turtle.html
