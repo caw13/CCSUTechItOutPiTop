@@ -4,6 +4,13 @@
 **Assembly instructions for pi-top:**  
 https://github.com/caw13/CCSUTechItOutPiTop/blob/master/Improved_pi-top_assembly_instructions.pdf
 
+**Turtle commands**
+https://github.com/caw13/CCSUTechItOutPiTop/blob/master/TurtleReference.md
+
+**Camp day 2**
+https://github.com/caw13/CCSUTechItOutPiTop/blob/master/Day2.md
+
+
 ## Python 3 references #
 **Quick reference for Python 3**  
 http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html

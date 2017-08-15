@@ -22,5 +22,40 @@ To clear the canvas and leave turtle where it is
 
 To clear the canvas and return turtle to its initial state
 > t.reset()
-More commands:
+
+### Playing with colors and shapes ###
+> t.color("red")
+
+Or can specify value for red, green, blue between 0-255 for each
+> t.color(40,80,120)
+
+Shapes
+> t.circle(50)
+
+
+Or fill shapes like a circle
+```
+t.begin_fill()
+t.circle(10)
+t.end_fill()
+```
+
+Or your own shapes you create
+
+```
+t.reset()
+t.color("blue")
+t.begin_fill()
+t.forward(100)
+t.left(120)
+t.forward(100)
+t.left(120)
+t.forward(100)
+t.end_fill()
+```
+
+
+
+
+Full list of commands reference:
 https://docs.python.org/3.0/library/turtle.html
