@@ -38,7 +38,7 @@ It can also be used with placeholders for variables you want to output in a stri
 
 ```
 name = "Chad"
-print("Hello %s", name)
+print("Hello %s" % name)
 weather = "sunny"
 print("%s the weather today is %s." % (name, weather))
 ```

@@ -27,7 +27,7 @@ To clear the canvas and return turtle to its initial state
 > t.color("red")
 
 Or can specify value for red, green, blue between 0-255 for each
-> t.color(40,80,120)
+> t.color()(40,80,120)
 
 Shapes
 > t.circle(50)
