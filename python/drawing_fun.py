@@ -10,6 +10,6 @@ def circle(x, y, size):
     t.circle(size)
     t.end_fill()
 
-circle(30)
-circle(50)
-circle(70)
+circle(10,10,30)
+circle(-10,-20,50)
+circle(50,20,70)
