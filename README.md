@@ -4,10 +4,10 @@
 **Assembly instructions for pi-top:**  
 https://github.com/caw13/CCSUTechItOutPiTop/blob/master/Improved_pi-top_assembly_instructions.pdf
 
-**Turtle commands**
+## Turtle commands ##
 https://github.com/caw13/CCSUTechItOutPiTop/blob/master/TurtleReference.md
 
-**Camp day 2**
+## Camp day 2 ##
 https://github.com/caw13/CCSUTechItOutPiTop/blob/master/Day2.md
 
 
