@@ -10,6 +10,8 @@ https://github.com/caw13/CCSUTechItOutPiTop/blob/master/TurtleReference.md
 ## Camp day 2 ##
 https://github.com/caw13/CCSUTechItOutPiTop/blob/master/Day2.md
 
+## Camp day 3 ##
+https://github.com/caw13/CCSUTechItOutPiTop/blob/master/Day3.md
 
 ## Python 3 references #
 **Quick reference for Python 3**  
