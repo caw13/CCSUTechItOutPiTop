@@ -83,3 +83,5 @@ def draw(self):
 - Add a second ball
 - Give the person the ability to start a new game
 - Change the ball into an image
+- Add a second paddle to play against someone else
+- After so many hits add a new block someplace randomly that the ball bounces off of
