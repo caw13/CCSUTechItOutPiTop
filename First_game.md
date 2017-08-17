@@ -300,6 +300,10 @@ if self.hit_paddle(pos,self.top_paddle) == True:
     self.y = self.speed
 ```
 Finally update it so if the ball hits the top it stops as well
+
+Final code:
+https://github.com/caw13/CCSUTechItOutPiTop/blob/master/python/basic_pong.py
+
 # Game enhancements ideas #
 - Keep track of points so each time the ball hits the paddle you get a point
 - Make your ball speed up each time it hits the paddle
