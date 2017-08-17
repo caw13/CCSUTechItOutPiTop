@@ -13,6 +13,9 @@ https://github.com/caw13/CCSUTechItOutPiTop/blob/master/Day2.md
 ## Camp day 3 ##
 https://github.com/caw13/CCSUTechItOutPiTop/blob/master/Day3.md
 
+## Camp day 4 ##
+https://github.com/caw13/CCSUTechItOutPiTop/blob/master/Day4.md
+
 ## Python 3 references #
 **Quick reference for Python 3**  
 http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html
