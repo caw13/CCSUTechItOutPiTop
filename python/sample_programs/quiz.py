@@ -12,7 +12,7 @@ my_dict =   {
             }
 
 #welcome message
-print("Computing Revision Quiz")
+print("My Quiz")
 print("=======================")
 
 #the quiz will end when this variable becomes 'False'
