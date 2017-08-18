@@ -8,6 +8,8 @@
 
 `quiz.py` - Make up quiz questions and have the program test you
 
+`file_example.py` - Simple example of reading and writing to a file
+
 `craft.py` - A text based quest game where you gather resources and craft items
 
 `StayAlive.py` - Example uses images where you have to feed a cat before it goes hungry to keep him alive
